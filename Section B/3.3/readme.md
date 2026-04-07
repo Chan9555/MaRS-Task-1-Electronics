@@ -1,11 +1,16 @@
 Automatic Night Lamp :
 
 Components Used –  
-Arduino Uno 
+Arduino Uno
+
 A LDR 
+
 A LED 
+
 2 Resistors  
+
 Jumper wires 
+
 
 Code Logic – Using the LDR(Light Dependent Resistor), 
 the ambient light level is detected with the use of 
