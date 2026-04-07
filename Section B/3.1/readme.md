@@ -2,12 +2,19 @@ Smart Distance Alert System :
 
 Components Used –  
 Arduino Uno 
-A Ultrasonic Sensor  
+
+A Ultrasonic Sensor 
+
 A buzzer 
+
 A LDR 
+
 3 LED’s 
+
 4 Resistors 
+
 Jumper wires 
+
 
 Code Logic- The ultrasonic sensor sends a soundwave 
 and receives it back and using the pulseIn() function the 
