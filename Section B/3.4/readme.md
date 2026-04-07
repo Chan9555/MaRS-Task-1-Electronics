@@ -2,12 +2,19 @@ A Sonar Scanner With Alert System :
 
 Components Used –  
 Arduino Uno 
+
 A Ultrasonic Sensor 
+
 A Servo 
+
 A buzzer 
+
 A RGB LED 
+
 3 Resistors 
+
 Jumper Wires  
+
 
 Code Logic – The ultrasonic sensor sends a sound wave 
 and determines the distance between the object if 
