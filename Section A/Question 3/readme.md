@@ -2,10 +2,15 @@ Reaction Time Tester :
 
 Components Used –  
 Arduino UNO 
+
 2 LED’s 
+
 2 Resistors 
+
 A Button 
+
 Jumper wires 
+
 
 Code Logic- The code uses millis() function to 
 determine the amount of time elapsed without 
