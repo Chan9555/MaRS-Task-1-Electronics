@@ -2,11 +2,17 @@ Controlling colour of RGB LED and  blinking speed of another LED with potentiome
 
 Components Used –  
 Arduino UNO 
+
 Potentiometer 
+
 RGB LED 
+
 Yellow LED 
+
 3 Resistors 
+
 Jumper wires 
+
 
 Code Logic- The code reads the potentiometer value 
 using analogRead() function and using map() function 
