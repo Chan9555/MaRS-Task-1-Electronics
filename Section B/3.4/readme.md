@@ -32,7 +32,7 @@ the distance is less than 20 then the servo stops until
 the object detected is removed. But due to Lack of 
 working servo ,the product couldn’t be done in 
 hardware and therefore a similar one is built in 
-Tinkercad and the although the servo and ultrasonic isnt attached ,
+Tinkercad and although the servo and ultrasonic isnt attached ,
 the servo stops when a object is detected by a ultrasonic sensor at a
 distance less than 20.
 
