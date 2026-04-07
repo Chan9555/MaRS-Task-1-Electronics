@@ -2,10 +2,15 @@ Morse Code Transmitter :
 
 Components Used –  
 Arduino Uno 
+
 A Buzzer 
+
 2 LED’s 
+
 2 Resistors 
-Jumper wires 
+
+Jumper wires
+
 
 Code Logic – An array is created for both alphabets and 
 numbers with their morse code stored respectively in 
