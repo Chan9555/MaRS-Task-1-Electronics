@@ -2,9 +2,13 @@ Blinking Led with different Interval Simultaneously :
 
 Components Used  - 
 Arduino Uno 
+
 3 LED’s 
+
 3 Resistors 
+
 Jumper Wires 
+
 
 Code Logic- Using millis() function which returns the 
 time elapsed in milliseconds since the code started to 
