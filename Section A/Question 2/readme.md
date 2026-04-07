@@ -18,3 +18,6 @@ potentiometer value.
 Tinkercad Link -  
 https://www.tinkercad.com/things/lYpfMnt9JH5-section-a-2?sharecode=b-7BlaVY7PWEI15EwUVnmpWvnaW5PT6s3KXr7Ofx3Uk
 
+Schematic Diagram - 
+<img width="1167" height="881" alt="image" src="https://github.com/user-attachments/assets/bbdceb41-4dcd-42a6-b464-0d89acbece7e" />
+
